@@ -2,8 +2,8 @@
 
 # queuectl — CLI-Based Background Job Queue System
 
-> A Python-based background job queue system.  
-> It manages background jobs using worker processes, supports automatic retries with exponential backoff, and includes a Dead Letter Queue (DLQ) for permanently failed jobs — all through an intuitive CLI.
+  A Python-based background job queue system.  
+  It manages background jobs using worker processes, supports automatic retries with exponential backoff, and includes a Dead Letter Queue (DLQ) for permanently failed jobs — all through an intuitive CLI.
 
 ---
 
@@ -93,3 +93,4 @@
 
   # Step 14 — Check Logs
     notepad queuectl.log
+
